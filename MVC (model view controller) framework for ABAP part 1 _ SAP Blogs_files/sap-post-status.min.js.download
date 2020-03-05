@@ -1,0 +1,1 @@
+"use strict";jQuery(document).ready(function(e){try{if(window.opener){var r=window.opener.jQuery(window.opener.document);r.trigger("heartbeat-refresh",[{source:"post"}])}}catch(e){}});
